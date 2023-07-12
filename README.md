@@ -13,7 +13,7 @@ Sebagai Proyek Akhir Capstone Studi Independent Di Infinite Learning Indonesia
 
 # Deskripsi
 
-Dalam poyek ini, kita menggunakan watson assistant untuk membuat chatbot hotel. Chatbot hotel ini akan membantu user untuk menjawab pertanyaan pertanyaan 
+Dalam poyek ini, kita menggunakan watson assistant dari IBM untuk membuat chatbot hotel. Chatbot hotel ini akan membantu user untuk menjawab pertanyaan pertanyaan 
 seputar info hotel, tipe kamar,cara pemesanan dan lainnya.
 
 # Alur
@@ -23,3 +23,6 @@ seputar info hotel, tipe kamar,cara pemesanan dan lainnya.
 1. Pengguna mengirimkan dialog pada web ke aplikasi Node.js berbasis cloud.
 2. Aplikasi berinteraksi dengan Asisten Watson.
 3. Balasan dari Asisten Watson dikembalikan ke pengguna melalui aplikasi pada web.
+
+# Assistant Slots Discussion
+
