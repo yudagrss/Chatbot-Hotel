@@ -1,11 +1,8 @@
-# Chatbot-Hotel-Capstone-Project-Study-Independent
-
-projek inimmerupakan projek akhir 
-
-## ini yuda
+# Pembuatan Chatbot Menggunakan Watson Asistant IBM
+Sebagai Proyek Akhir Capstone Studi Independent Di Infinite Learning Indonesia
 
 | Info | Deskripsi           |
-|===========|================|
+|---|------|
 | Nama      |Yuda edi        |
 | Judul     | Hotel          |
 | Service   | Watson studio  |
