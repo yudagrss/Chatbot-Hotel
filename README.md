@@ -1,4 +1,5 @@
 # Pembuatan Chatbot Menggunakan Watson Asistant IBM
+
 Sebagai Proyek Akhir Capstone Studi Independent Di Infinite Learning Indonesia
 
 | Info | Deskripsi           |
@@ -10,10 +11,12 @@ Sebagai Proyek Akhir Capstone Studi Independent Di Infinite Learning Indonesia
 | Pattern   |   Assemble a pizza-ordering chatbot dialog          |
 | Service IBM | Watson Assistant |
 
-#Deskripsi
+# Deskripsi
+
 Dalam poyek ini, kita menggunakan watson assistant untuk membuat chatbot hotel. Chatbot hotel ini akan membantu user untuk menjawab pertanyaan pertanyaan 
-seputar info hotel, tipe kamar .
-#Alur
+seputar info hotel, tipe kamar,cara pemesanan dan lainnya.
+
+# Alur
 
 ![Poster](https://github.com/yudagrss/Chatbot-Hotel-Capstone-Project-Study-Independent/blob/index/architecture.png)
 
