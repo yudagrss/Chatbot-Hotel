@@ -26,3 +26,4 @@ seputar info hotel, tipe kamar,cara pemesanan dan lainnya.
 
 # Assistant Slots Discussion
 
+![Poster]([https://github.com/yudagrss/Chatbot-Hotel-Capstone-Project-Study-Independent/blob/index/architecture.png](https://github.com/yudagrss/Chatbot-Hotel-Capstone-Project-Study-Independent/blob/index/Screenshot%202023-07-12%20224319.png)https://github.com/yudagrss/Chatbot-Hotel-Capstone-Project-Study-Independent/blob/index/Screenshot%202023-07-12%20224319.png)
