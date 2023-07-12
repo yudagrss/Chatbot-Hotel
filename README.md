@@ -11,6 +11,6 @@ Sebagai Proyek Akhir Capstone Studi Independent Di Infinite Learning Indonesia
 | Service IBM | Watson Assistant |
 
 
-![Poster]([https://github.com/yudagrss/Chatbot-Hotel-Capstone-Project-Study-Independent/blob/index/architecture.png)
+![Poster]([https://github.com/yudagrss/Chatbot-Hotel-Capstone-Project-Study-Independent/blob/index/architecture.png])
 
 
