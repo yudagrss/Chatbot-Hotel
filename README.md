@@ -13,8 +13,7 @@ Sebagai Proyek Akhir Capstone Studi Independent Di Infinite Learning Indonesia
 
 # Deskripsi
 
-Dalam poyek ini, kita menggunakan watson assistant dari IBM untuk membuat chatbot hotel. Chatbot hotel ini akan membantu user untuk menjawab pertanyaan pertanyaan 
-seputar info hotel, tipe kamar,cara pemesanan dan lainnya.
+Dalam proyek ini, kita menggunakan watson assistant dari IBM untuk membuat chatbot hotel. Chatbot hotel ini di khsusus kan untuk sebuah hotel bernama Hotel Sibayak. Chatbot hotel ini akan membantu user untuk menjawab pertanyaan pertanyaan seputar info hotel, tipe kamar,cara pemesanan dan lainnya.
 
 # Alur
 
@@ -35,4 +34,8 @@ seputar info hotel, tipe kamar,cara pemesanan dan lainnya.
 ## Entities
 ![Poster](https://github.com/yudagrss/Chatbot-Hotel-Capstone-Project-Study-Independent/blob/index/Entities.png)
 
+# Hasil Deploy Pada Web
+![Poster](https://github.com/yudagrss/Chatbot-Hotel-Capstone-Project-Study-Independent/blob/index/web1.png)
 
+# Hasil Deploy Pada Web
+![Poster](https://github.com/yudagrss/Chatbot-Hotel-Capstone-Project-Study-Independent/blob/index/web2.png)
